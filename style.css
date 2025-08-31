@@ -1,0 +1,27 @@
+ body{
+    padding: 10px;
+    margin: 10px;
+    font-family: cursive;
+    text-align: center;
+    background-color: antiquewhite;
+ }
+ input{
+    border:2px solid gray;
+    padding: 1px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+ }
+input:hover{
+    cursor: pointer;
+    animation:alternate;
+}
+button:hover{
+    cursor: pointer;
+    background-color: black;
+    color: aliceblue;
+}
+button{
+    padding: 5px 20px;
+    margin: 13px;
+    border-radius: 5px;
+}
